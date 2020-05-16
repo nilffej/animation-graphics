@@ -1,0 +1,5 @@
+*.gif
+__pycache__/
+*.out
+*.png
+*.ppm
